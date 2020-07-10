@@ -7,6 +7,7 @@ and (i, 0). Find two lines, which together with x-axis forms a container, such t
 Note: You may not slant the container and n is at least 2.
 
  
+![Coding at the whiteboard - from HBO's Silicon Valley](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg)
 
 
 
